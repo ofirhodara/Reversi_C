@@ -1,0 +1,4 @@
+﻿  Game.c
+C:\Users\Ofir\source\repos\Reversi\Reversi\Game.c(280,9): warning C4013: 'system' undefined; assuming extern returning int
+C:\Users\Ofir\source\repos\Reversi\Reversi\Game.c(282,30): warning C4133: 'function': incompatible types - from 'PlayerColor *' to 'int *'
+  Reversi.vcxproj -> C:\Users\Ofir\source\repos\Reversi\Debug\Reversi.exe
