@@ -1,1 +1,1 @@
-"# Reversi_C" 
+I built Reversi Game in C for Fun :)
